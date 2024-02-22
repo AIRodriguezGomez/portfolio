@@ -194,6 +194,9 @@ footer .fa-whatsapp{
     height: 300px;
 }
 
+#stack-tecnologico{
+    background-color: #E20000;
+}
 
 @media (max-width: 750px) {
     #contacto, #inicio {
