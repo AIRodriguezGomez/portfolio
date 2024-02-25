@@ -195,8 +195,64 @@ footer .fa-whatsapp{
 }
 
 #stack-tecnologico{
-    background-color: #E20000;
+    background: linear-gradient(90deg, rgba(96, 5, 11, 1) 0%, rgba(176, 39, 39, 1) 35%);
 }
+
+#stack-tecnologico h2{
+    font-size: 24px;
+    color: white;
+}
+
+#stack-tecnologico h3{
+    font-size: 14px;
+    color: black;
+    font-weight: 300;
+}
+
+#stack-tecnologico .tecnologia{
+    background-color: white;
+    border-radius: 5px;
+    text-align: center;
+    height: 182px;
+}
+
+#stack-tecnologico .tecnologia img{
+    height: 80px;
+}
+
+#experiencia h2{
+    font-size: 24px;
+    color: #370a6d;
+    font-weight: 400;
+}
+#experiencia h3{
+    font-size: 18px;
+    color:#6a6a6a;
+    font-weight: 600;
+}
+#experiencia h4{
+    font-size: 17px;
+    color: #370a6d;
+}
+#experiencia h5{
+    font-size: 14px;
+    color: #6a6a6a;
+    font-weight: 400;
+}
+
+.gris{
+    -webkit-filter: grayscale(100%); /*safari 6.0 - 9.0*/
+    filter: grayscale(100%);
+}
+
+.gris:hover{
+    -webkit-filter: grayscale(100%); /*safari 6.0 - 9.0*/
+    filter: grayscale(0%);
+}
+
+
+
+
 
 @media (max-width: 750px) {
     #contacto, #inicio {
