@@ -154,19 +154,7 @@ footer .fa-whatsapp{
     height: 400px;
 }
 
-.mi-cv {
-    background-color: #E20000;
-    color: white;
-    border-radius: 20px;
-    font-weight: 100;
-    padding: 10px;
-    text-decoration: none;
-}
 
-.mi-cv:hover {
-    background-color: #370a6d;
-    color: white;
-}
 
 .proyecto {
     background-color: white;
